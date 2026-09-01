@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788194250 source:e:\dog karti meow meow\game_server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
